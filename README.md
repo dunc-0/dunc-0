@@ -1,4 +1,17 @@
-### Hi there 👋
+<h3>
+  Hello, I'm Duncan <img src="https://media.tenor.com/images/51695b40f5523bfc345c350e3f3fccee/tenor.gif" height=45px>
+</h3>
+
+Recent Electronics and Computer technologist grad, returning for an electrical engineering degree.
+
+Enjoy programming, learned a little about
+C, C++, Python, and VHDL
+through my program. Trying to improve my skills.
+
+Currently going through FreeCodeCamps HTML/CSS for my covid staycation.
+
+
+
 
 <!--
 **skellingtonne/skellingtonne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
