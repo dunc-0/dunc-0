@@ -4,9 +4,9 @@
 
 Recent Electronics and Computer technologist grad, returning for an electrical engineering degree.
 
-Enjoy programming, learned a little about
-C, C++, Python, and VHDL
-through my program. Trying to improve my skills.
+Enjoy programming, learned a little about <br>
+C, C++, Python, and VHDL<br>
+through my program. Trying to improve my skills.<br>
 
 Currently going through FreeCodeCamps HTML/CSS for my covid staycation.
 
