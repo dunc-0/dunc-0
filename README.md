@@ -2,7 +2,7 @@
   Hello, I'm Duncan <img src="https://media.tenor.com/images/51695b40f5523bfc345c350e3f3fccee/tenor.gif" height=45px>
 </h3>
 
-Recent Electronics and Computer technologist grad, returning for an electrical engineering degree.
+Recent Electronics and Computer technologist grad, returning for an Conmputer engineering degree.
 
 Enjoy programming, learned a little about <br>
 C, C++, Python, and VHDL<br>
