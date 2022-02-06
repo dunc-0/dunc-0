@@ -4,9 +4,9 @@
 
 Recent Electronics and Computer technologist grad, returning for an Conmputer engineering degree.
 
-Enjoy programming, learned a little about <br>
+Enjoy programming, learned <br>
 C, C++, Python, and VHDL<br>
-through my program. Trying to improve my skills.<br>
+through my program. Working to improve my skills.<br>
 
 I recently got into 3d printing and am learning the basics of 3d modeling and how to tune a 3d printer. I am also interested in SDR's and am currently using Unitrunker and DSD+ to learn more about Project 25 and trunked radio in general.
 
