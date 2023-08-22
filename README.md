@@ -1,6 +1,5 @@
-<h3>
-  Hello, I'm Duncan <img src="https://media.tenor.com/images/51695b40f5523bfc345c350e3f3fccee/tenor.gif" height=45px>
-</h3>
+<h1>Pondering</h1>
+<img href="https://arkmsworld.neocities.org/arkmspics/wizard.gif"></img>
 
 
 
