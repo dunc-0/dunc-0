@@ -1,5 +1,5 @@
 <h1>Pondering</h1>
-<img href="https://arkmsworld.neocities.org/arkmspics/wizard.gif"></img>
+<img src="https://arkmsworld.neocities.org/arkmspics/wizard.gif"></img>
 
 
 
